@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.env
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# FAISS index backups
+*.faiss.tmp
+
+# OS files
+.DS_Store
+
+# Ignore model/data files
+*.npy
+*.json
